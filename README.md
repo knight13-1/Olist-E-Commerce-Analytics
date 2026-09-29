@@ -46,7 +46,6 @@ Credit cards dominate the platform. Customers paying in full have an Average Ord
 
 ## 📁 Repository Structure
 ```text
-├── datasets/                   # Contains the 9 Olist CSV files (Link to Kaggle above)
 ├── Olist_Analysis.ipynb        # Main Google Colab / Jupyter Notebook containing all code
 ├── Olist_Analysis_Report.pdf   # Executive summary and business report
 └── README.md                   # Project documentation
