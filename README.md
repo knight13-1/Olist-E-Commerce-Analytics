@@ -43,9 +43,3 @@ Credit cards dominate the platform. Customers paying in full have an Average Ord
 1. **De-risk Cross-State Logistics:** Launch targeted seller acquisition campaigns in the North and Northeast regions to build local inventory hubs and reduce reliance on long-haul transit[cite: 1].
 2. **Recalibrate Delivery Algorithms:** Extend the algorithmic estimated delivery window for heavy categories (e.g., Furniture) to set more realistic expectations and avoid triggering the "late delay" threshold[cite: 1].
 3. **Protect High-Installment Customers:** Implement proactive tracking notifications and priority customer service routing for orders utilizing 4+ credit card installments[cite: 1].
-
-## 📁 Repository Structure
-```text
-├── Olist_Analysis.ipynb        # Main Google Colab / Jupyter Notebook containing all code
-├── Olist_Analysis_Report.pdf   # Executive summary and business report
-└── README.md                   # Project documentation
